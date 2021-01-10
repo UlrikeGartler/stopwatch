@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StopWatch</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stopwatch_start">Start</string>
+    <string name="stopwatch_stop">Stop</string>
+    <string name="stopwatch_reset">Reset</string>
+    <string name="stopwatch_take_lap">Lap</string>
+    <string name="stopwatch_lap_caption">Laps:</string>
+    <string name="lap_item_lap_num">Lap: </string>
+    <string name="stopwatch_clear_lap">Clear</string>
+</resources>
